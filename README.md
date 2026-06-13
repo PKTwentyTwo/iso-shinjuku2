@@ -30,7 +30,7 @@ I have yet to develop a frontend for the project to allow it to be effectively u
 The project dependencies are:
 - [lifelib](https://gitlab.com/apgoucher/lifelib) by Adam P. Goucher, either cloned in the same directory or installed as a Python package.
 - The Python module ```psutil``` - Install with either ```sudo apt install python3-psutil``` or ```pip install psutil```.
-Note that some features of lifelib do not work as well on Windows, so I recommend using the project on POSIX systems or using WSL.
+Note that some features of lifelib do not work as well on Windows, so I would use WSL to provide a POSIX environment if necessary.
 
 ## License
 The project is avaliable under the permissive MIT license. Some code is copied or adapted from Shinjuku, which is also avaliable under an MIT license.
